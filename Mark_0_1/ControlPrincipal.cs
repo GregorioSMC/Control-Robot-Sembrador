@@ -21,8 +21,8 @@ namespace Mark_0_1
 
         IFirebaseConfig fireConfig = new FirebaseConfig
         {
-            AuthSecret = "wgChIumVnCj8nHrEWhrHQ4PNMRreA4oy8lGuVuEu",
-            BasePath = "https://jarvis-c89ef.firebaseio.com/"
+            AuthSecret = "Clave-YourFirebase",
+            BasePath = "URL-YourFirebase"
         };
 
         IFirebaseClient fireCliente;
